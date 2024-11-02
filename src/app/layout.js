@@ -2,8 +2,8 @@ import Navbar from "@/component/navbar/navbar";
 import "./globals.css";
 
 export const metadata = {
-    title: "BooleanBuffer",
-    description: "BooleanBuffer",
+    title: "SciberSync",
+    description: "SciberSync",
 };
 
 export default function RootLayout({ children }) {
