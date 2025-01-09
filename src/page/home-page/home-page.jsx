@@ -23,7 +23,7 @@ function HomePage() {
         },
         {
             id: 'email',
-            link: 'mailto:nitin@scibersync.com'
+            link: 'mailto:hello@scibersync.com'
         }
     ]
   return (
